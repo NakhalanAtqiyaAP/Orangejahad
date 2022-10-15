@@ -1,0 +1,24 @@
+body{
+    height: 2000px;
+    background-color: whitesmoke;
+}
+h1{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    font-weight:normal ;
+    font-variant: small-caps;
+
+}
+img{
+    height:500px;
+    width: 400px;
+}
+a {
+    text-decoration: none;
+    color:#191919;
+    font-family: Arial, Helvetica, sans-serif;
+    font-variant: small-caps;
+}
+a :hover{
+    color: palevioletred;
+}

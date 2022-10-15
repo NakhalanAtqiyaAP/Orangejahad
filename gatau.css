@@ -1,0 +1,20 @@
+body{
+    background-color: pink;
+    height:2000px;
+}
+img{
+    height: 500px;
+    width: 500px;
+
+}
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    font-variant: small-caps;
+    color: white;
+}
+p{
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    box-shadow: 20px;
+
+}
